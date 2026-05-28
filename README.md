@@ -71,8 +71,5 @@ Project_Nhom4_HeThongNhung/
 ├── Demo/
 │   └── Chứa video demo hoặc link video demo
 │
-├── Images/
-│   └── Chứa hình ảnh mô hình, sơ đồ mạch và kết quả thực tế
-│
 └── Documents/
     └── Chứa tài liệu phụ, datasheet hoặc hướng dẫn liên quan
